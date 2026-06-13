@@ -1,0 +1,17 @@
+# Reykjawwwik — Web Agency SaaS
+
+**Live:** [reykjawwwik.is](https://reykjawwwik.is) · **Built by** [Kamil Jan](https://kamiljan.com)
+
+A full SaaS platform powering a web/design agency end to end.
+
+## What it does
+- **Multi-market pricing engine** across 10 countries with geo-detection
+- Lead-to-contract pipeline + admin **CRM**
+- **PDF contract generation** with per-country VAT logic
+- Push notifications
+
+## Stack
+React · TypeScript · Supabase · Vercel
+
+## Source
+Application source is **private**. Live at [reykjawwwik.is](https://reykjawwwik.is). Selected client builds: [cars.reykjawwwik.is](https://cars.reykjawwwik.is) · [tours.reykjawwwik.is](https://tours.reykjawwwik.is) · [beauty.reykjawwwik.is](https://beauty.reykjawwwik.is)
